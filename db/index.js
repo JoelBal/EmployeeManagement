@@ -23,7 +23,7 @@ findAllPossibleManagers(employeeId) {
 
 // Create a new employee
 createEmployee(employee) {
-    return this.connections.query("INSERT INTO employee SET ?", employee);
+    return this.connection.query("INSERT INTO employee SET ?", employee);
     
 }
 
