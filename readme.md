@@ -15,7 +15,7 @@ mysql
 
 ## Tests
 https://www.loom.com/share/357df693e3af4ca1b6f1d4a37063f949?sharedAppSource=personal_library
-https://github.com/JoelBal/e-commerce.git
+https://github.com/JoelBal/EmployeeManagement.git
 
 ## Email
 JoelBalkcom@gmail.com
